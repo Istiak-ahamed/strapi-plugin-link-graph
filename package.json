@@ -1,0 +1,13 @@
+{
+  "name": "strapi-plugin-link-graph",
+  "version": "1.0.0",
+  "description": "Internal link graph analyzer and orphan post detector for Strapi 5 Blocks rich text.",
+  "main": "strapi-server.js",
+  "license": "MIT",
+  "author": "Istiak Ahamed <hello@istiakahamed.com>",
+  "keywords": ["strapi", "strapi-v5", "seo", "internal-links", "blocks"],
+  "strapi": {
+    "name": "link-graph",
+    "kind": "plugin"
+  }
+}
